@@ -1,0 +1,13 @@
+.padmashree{
+    display: flex;
+    align-items: center;
+    padding-top: 2%;
+    justify-content: space-evenly;
+    
+}
+body{
+    background-image: url(https://cdn.neowin.com/news/images/uploaded/2020/10/1601846770_ola_story.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
